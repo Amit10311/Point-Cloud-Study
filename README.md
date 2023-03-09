@@ -31,4 +31,4 @@ Point Cloud Study from Basic to Advance
 ## Other Links 
 
 1. NPM3D is "Nuage de Points et Modélisation 3D" in French and means 3D Point Cloud and Modeling.
-  * Link : https://npm3d.fr/paris-lille-3d
+   * Link : https://npm3d.fr/paris-lille-3d
