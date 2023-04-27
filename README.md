@@ -35,3 +35,16 @@ Point Cloud Study from Basic to Advance
 1. NPM3D is "Nuage de Points et Modélisation 3D" in French and means 3D Point Cloud and Modeling.
 
    * Link : https://npm3d.fr/paris-lille-3d
+   
+   
+   
+## Lidar 
+1. LiDAR Visualizer rocket:
+  * A flexible, easy-to-use, LiDAR (or any point cloud) visualizer for Linux, Windows, and macOS.
+  * `Code :` https://github.com/PRBonn/lidar-visualizer
+ 
+2. KISS-ICP
+  * KISS-ICP is a LiDAR Odometry pipeline that just works on most of the cases without tunning any parameter.
+  * `Code :` https://github.com/PRBonn/kiss-icp
+
+
